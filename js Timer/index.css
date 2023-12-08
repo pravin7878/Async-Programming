@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+}
+#timer>input{
+width: 4%;
+text-align: right;
+font-size: 18px;
+}
